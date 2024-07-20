@@ -1,0 +1,4 @@
+- This is a python program I wrote in December 2022.
+- Users can generate cartoons of the classic snake game using this program.
+- You need to have turtle library, and of course, python installed, in order to run this on your computer.
+- A video demonstration of the program running: https://youtu.be/u9RO1Gy9WSo
